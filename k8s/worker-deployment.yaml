@@ -15,4 +15,3 @@ spec:
       containers:
         - name: worker
           image: boomb0x/complex-worker
-          
